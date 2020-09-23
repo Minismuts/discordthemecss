@@ -1,0 +1,26 @@
+.wordmark-2iDDfm::before{
+    content:'sasha <3';
+    font-size:16px;
+    z-index:1000;
+    position:fixed;
+    display:inline-block;
+    color:#ff738a;
+    height:auto;
+    top:5px;
+    left:12px;
+    background-color:transparent
+}
+.wordmark-2iDDfm::after{
+    font-size:16px;
+    z-index:1000;
+    position:fixed;
+    display:inline-block;
+    color:#ff738a;
+    height:auto;
+    top:5px;
+    left:73px;
+    background-color:black
+}
+.wordmark-2iDDfm svg{
+    display:none
+}
